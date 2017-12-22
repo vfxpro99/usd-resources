@@ -9,6 +9,7 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 - [Samples](#samples)
 - [Building USD](#building)
 - [Integrations](#integrations)
+- [Tools](#tools)
 - [Hydra](#hydra)
 
 ## Reference
@@ -29,6 +30,10 @@ There are a variety of strategies for building USD.
 - [USD Build Club](https://github.com/vfxpro99/usd-build-club) This is the most thorough and flexible method for building USD and all its dependencies for macOS and Windows. Dependencies are fetched from canonical sources.
 - [RodeoFX's dependency builds](https://github.com/rodeofx/usd-deps) Includes tarred sources for USD dependencies at vfxplatform point revisions.
 - [Victor Yudin's Saturn](https://github.com/VictorYudin/saturn) Windows build recipes, and AppVeyor build of binaries.
+
+## Tools
+
+- [Syntax Highlighting](https://github.com/superfunc/usda-syntax) Syntax Highlighting for usda files in vim, emacs, atom, vscode & sublime.
 
 ## Hydra
 
