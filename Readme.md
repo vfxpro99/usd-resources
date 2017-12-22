@@ -5,25 +5,45 @@ Projects relating to Pixar's [Universal Scene Description](http://openusd.org)
 
 ## Contents
 
+- [Reference](#reference)
+- [Samples](#samples)
 - [Building USD](#building)
-- [Another Section](#another-section)
+- [Integrations](#integrations)
+- [Hydra](#hydra)
 
+## Reference
+
+- [openusd.org](http://openusd.org) The official website
+- [USD Intereset Google Group](https://groups.google.com/forum/#!forum/usd-interest)
+- [Introductory Videos](http://graphics.pixar.com/usd/downloads.html) Several video presentations by Pixar
+
+## Samples
+- [Samples from Pixar](http://graphics.pixar.com/usd/downloads.html) Two assets are available for testing here
 
 ## Building
 
-About this section. Optional. Keep this short and focus on the list.
+There are a variety of strategies for building USD.
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Official USD repo](https://github.com/PixarAnimationStudios/USD) The repo includes a robust build script that pulls canonical dependency sources, and can build for all supported platforms.
+- [USD Build Club](https://github.com/vfxpro99/usd-build-club) This is the most thorough and flexible method for building USD and all its dependencies for macOS and Windows. Dependencies are fetched from canonical sources.
+- [RodeoFX's dependency builds](https://github.com/rodeofx/usd-deps) Includes tarred sources for USD dependencies at vfxplatform point revisions.
+- [Victor Yudin's Saturn](https://github.com/VictorYudin/saturn) Windows build recipes, and AppVeyor build of binaries.
 
+## Hydra
 
-## Another Section
+- [GTC 2015](http://on-demand.gputechconf.com/gtc/2015/presentation/S5327-Jeremy-Cowles.pdf) Jeremy Cowles' GTC2015 presentation introducing USD
+- [Switch](https://github.com/VictorYudin/switch) Victor Yudin has built a game using Hydra as the build engine
+- [Tutorials](https://github.com/dboogert/USD/tree/tutorials/extras/usd/tutorials/IETutorials) Tutorials on using Hydra as a stand-alone render system
 
-### Subsection
+## Integrations
 
-- [List item](http://example.com)
-- [List item](http://example.com)
-
+- [USD for Unity](https://github.com/unity3d-jp/USDForUnity) USD and Alembic importer/exporter plugin for Unity
+- [Unreal](https://github.com/epicgames/unrealengine) Unreal 4.18 includes a USD importer
+- [AL_USDMaya](https://github.com/AnimalLogic/AL_USDMaya) Animal Logic's exporter maintains a live connection between the Maya and USD scenegraphs to support live USD workflows.
+- [USD Qt](https://github.com/LumaPictures/usd-qt) Luma Pictures has created some reusable Qt widgets to work with USD
+- [Arnold](https://github.com/LumaPictures/usd-arnold) Luma Pictures USD bridge for Arnold
+- [Multiverse](http://multi-verse.io/) DCC asset interchange system
+- [TiltBrush](https://docs.google.com/document/d/11ZsHozYn9FnWG7y3s3WAyKIACfbfwb4PbaS8cZ_xjvo/preview) TiltBrush v15 can export USD camera tracks
 
 ## Contribute
 
