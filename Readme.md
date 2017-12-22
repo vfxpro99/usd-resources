@@ -1,6 +1,6 @@
 # Awesome USD [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Projects relating to Pixar's [Universal Scene Description](http://openusd.org)
+Projects and resources relating to Pixar's [Universal Scene Description](http://openusd.org)
 
 
 ## Contents
@@ -16,6 +16,7 @@ Projects relating to Pixar's [Universal Scene Description](http://openusd.org)
 - [openusd.org](http://openusd.org) The official website
 - [USD Intereset Google Group](https://groups.google.com/forum/#!forum/usd-interest)
 - [Introductory Videos](http://graphics.pixar.com/usd/downloads.html) Several video presentations by Pixar
+- [UsdSkel](http://graphics.pixar.com/usd/files/SkinningOM.md.html) All about skinning schemas for USD
 
 ## Samples
 - [Samples from Pixar](http://graphics.pixar.com/usd/downloads.html) Two assets are available for testing here
