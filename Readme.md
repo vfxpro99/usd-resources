@@ -18,6 +18,7 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 - [USD Intereset Google Group](https://groups.google.com/forum/#!forum/usd-interest)
 - [Introductory Videos](http://graphics.pixar.com/usd/downloads.html) Several video presentations by Pixar
 - [UsdSkel](http://graphics.pixar.com/usd/files/SkinningOM.md.html) All about skinning schemas for USD
+- [Using USD with Apple's technologies](https://developer.apple.com/videos/play/wwdc2017/610/) WWDC 2017 presentation
 
 ## Samples
 - [Samples from Pixar](http://graphics.pixar.com/usd/downloads.html) Two assets are available for testing here
@@ -37,7 +38,7 @@ There are a variety of strategies for building USD.
 
 ## Hydra
 
-- [GTC 2015](http://on-demand.gputechconf.com/gtc/2015/presentation/S5327-Jeremy-Cowles.pdf) Jeremy Cowles' GTC2015 presentation introducing USD
+- [GTC 2015](http://on-demand.gputechconf.com/gtc/2015/presentation/S5327-Jeremy-Cowles.pdf) Jeremy Cowles' GTC2015 presentation introducing Hydra
 - [Switch](https://github.com/VictorYudin/switch) Victor Yudin has built a game using Hydra as the render engine
 - [Tutorials](https://github.com/dboogert/USD/tree/tutorials/extras/usd/tutorials/IETutorials) Tutorials on using Hydra as a stand-alone render system
 
@@ -50,6 +51,8 @@ There are a variety of strategies for building USD.
 - [Arnold](https://github.com/LumaPictures/usd-arnold) Luma Pictures USD bridge for Arnold
 - [Multiverse](http://multi-verse.io/) DCC asset interchange system
 - [TiltBrush](https://docs.google.com/document/d/11ZsHozYn9FnWG7y3s3WAyKIACfbfwb4PbaS8cZ_xjvo/preview) TiltBrush v15 can export USD camera tracks
+- [Model I/O](https://developer.apple.com/documentation/modelio) Apple's Model I/O brings USD to Metal
+- [SceneKit](https://developer.apple.com/documentation/scenekit) Apple's SceneKit can read and write USD files for native rendering on all Apple platforms
 
 ## Contribute
 
