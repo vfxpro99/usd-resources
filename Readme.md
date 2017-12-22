@@ -38,7 +38,7 @@ There are a variety of strategies for building USD.
 ## Hydra
 
 - [GTC 2015](http://on-demand.gputechconf.com/gtc/2015/presentation/S5327-Jeremy-Cowles.pdf) Jeremy Cowles' GTC2015 presentation introducing USD
-- [Switch](https://github.com/VictorYudin/switch) Victor Yudin has built a game using Hydra as the build engine
+- [Switch](https://github.com/VictorYudin/switch) Victor Yudin has built a game using Hydra as the render engine
 - [Tutorials](https://github.com/dboogert/USD/tree/tutorials/extras/usd/tutorials/IETutorials) Tutorials on using Hydra as a stand-alone render system
 
 ## Integrations
