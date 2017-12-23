@@ -15,7 +15,7 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 ## Reference
 
 - [openusd.org](http://openusd.org) The official website
-- [USD Intereset Google Group](https://groups.google.com/forum/#!forum/usd-interest)
+- [USD Interest Google Group](https://groups.google.com/forum/#!forum/usd-interest)
 - [Introductory Videos](http://graphics.pixar.com/usd/downloads.html) Several video presentations by Pixar
 - [UsdSkel](http://graphics.pixar.com/usd/files/SkinningOM.md.html) All about skinning schemas for USD
 - [Using USD with Apple's technologies](https://developer.apple.com/videos/play/wwdc2017/610/) WWDC 2017 presentation
@@ -44,15 +44,17 @@ There are a variety of strategies for building USD.
 
 ## Integrations
 
-- [USD for Unity](https://github.com/unity3d-jp/USDForUnity) USD and Alembic importer/exporter plugin for Unity
-- [Unreal](https://github.com/epicgames/unrealengine) Unreal 4.18 includes a USD importer
-- [AL_USDMaya](https://github.com/AnimalLogic/AL_USDMaya) Animal Logic's exporter maintains a live connection between the Maya and USD scenegraphs to support live USD workflows.
-- [USD Qt](https://github.com/LumaPictures/usd-qt) Luma Pictures has created some reusable Qt widgets to work with USD
+- [AL_USDMaya](https://github.com/AnimalLogic/AL_USDMaya) Animal Logic's exporter maintains a live connection between the Maya and USD scenegraphs
 - [Arnold](https://github.com/LumaPictures/usd-arnold) Luma Pictures USD bridge for Arnold
-- [Multiverse](http://multi-verse.io/) DCC asset interchange system
-- [TiltBrush](https://docs.google.com/document/d/11ZsHozYn9FnWG7y3s3WAyKIACfbfwb4PbaS8cZ_xjvo/preview) TiltBrush v15 can export USD camera tracks
+- [Houdini](https://graphics.pixar.com/usd/docs/Houdini-USD-Plugins.html)
+- [Katana](https://graphics.pixar.com/usd/docs/Katana-USD-Plugins.html)
 - [Model I/O](https://developer.apple.com/documentation/modelio) Apple's Model I/O brings USD to Metal
+- [Multiverse](http://multi-verse.io/) DCC asset interchange system
 - [SceneKit](https://developer.apple.com/documentation/scenekit) Apple's SceneKit can read and write USD files for native rendering on all Apple platforms
+- [TiltBrush](https://docs.google.com/document/d/11ZsHozYn9FnWG7y3s3WAyKIACfbfwb4PbaS8cZ_xjvo/preview) TiltBrush v15 can export USD camera tracks
+- [Unreal](https://github.com/epicgames/unrealengine) Unreal 4.18 includes a USD importer
+- [USD for Unity](https://github.com/unity3d-jp/USDForUnity) USD and Alembic importer/exporter plugin for Unity
+- [USD Qt](https://github.com/LumaPictures/usd-qt) Luma Pictures has created some reusable Qt widgets to work with USD
 
 ## Contribute
 
