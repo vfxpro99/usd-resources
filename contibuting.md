@@ -16,7 +16,6 @@ Ensure your pull request adheres to the following guidelines:
 
 Thank you for your suggestions!
 
-
 ## Updating your PR
 
 The maintainers may request an

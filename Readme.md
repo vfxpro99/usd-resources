@@ -31,16 +31,22 @@ There are a variety of strategies for building USD.
 - [USD Build Club](https://github.com/vfxpro99/usd-build-club) This is the most thorough and flexible method for building USD and all its dependencies for macOS and Windows. Dependencies are fetched from canonical sources.
 - [RodeoFX's dependency builds](https://github.com/rodeofx/usd-deps) Includes tarred sources for USD dependencies at vfxplatform point revisions.
 - [Victor Yudin's Saturn](https://github.com/VictorYudin/saturn) Windows build recipes, and AppVeyor build of binaries.
+- [Ubuntu scripts](https://github.com/tlorach/USD_build) Scripts for Ubuntu
+- [Rez](https://github.com/piratecrew/rez-usd) Rez package for USD
+
 
 ## Tools
 
 - [Syntax Highlighting](https://github.com/superfunc/usda-syntax) Syntax Highlighting for usda files in vim, emacs, atom, vscode & sublime.
+- [Sublime Syntax Highlighter](https://github.com/davidlatwe/PixarUSD-Sublime) Syntax highlighter for Sublime.
+- [Notepad++ Highlighter](https://github.com/Andrew/Hazelden/PIXAR-USD-Syntax-Highlighter) Syntax highlighter for Notepad++
 
 ## Hydra
 
 - [GTC 2015](http://on-demand.gputechconf.com/gtc/2015/presentation/S5327-Jeremy-Cowles.pdf) Jeremy Cowles' GTC2015 presentation introducing Hydra
 - [Switch](https://github.com/VictorYudin/switch) Victor Yudin has built a game using Hydra as the render engine
 - [Tutorials](https://github.com/dboogert/USD/tree/tutorials/extras/usd/tutorials/IETutorials) Tutorials on using Hydra as a stand-alone render system
+- [USD-tests](https://github.com/dboogert/USD-tests) Examples for learning USD and Hydra APIs
 
 ## Integrations
 
