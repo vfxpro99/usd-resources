@@ -64,7 +64,7 @@ There are a variety of strategies for building USD.
 
 ## Contribute
 
-Contributions are welcome. See the [contribution guidelines](contributing.md) first.
+Contributions are welcome - see the[contribution guidelines](contributing.md)
 
 
 ## License
