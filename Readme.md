@@ -55,7 +55,7 @@ There are a variety of strategies for building USD.
 - [Houdini](https://graphics.pixar.com/usd/docs/Houdini-USD-Plugins.html)
 - [Katana](https://graphics.pixar.com/usd/docs/Katana-USD-Plugins.html)
 - [Model I/O](https://developer.apple.com/documentation/modelio) Apple's Model I/O brings USD to Metal
-- [Multiverse](http://multi-verse.io/) DCC asset interchange system
+- [Multiverse](http://multi-verse.io/) Scene assembly, set dressing, and inter-op with DCC applications
 - [SceneKit](https://developer.apple.com/documentation/scenekit) Apple's SceneKit can read and write USD files for native rendering on all Apple platforms
 - [TiltBrush](https://docs.google.com/document/d/11ZsHozYn9FnWG7y3s3WAyKIACfbfwb4PbaS8cZ_xjvo/preview) TiltBrush v15 can export USD camera tracks
 - [Unreal](https://github.com/epicgames/unrealengine) Unreal 4.18 includes a USD importer
