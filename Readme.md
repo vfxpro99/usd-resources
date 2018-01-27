@@ -32,7 +32,7 @@ There are a variety of strategies for building USD.
 - [Saturn](https://github.com/VictorYudin/saturn) Windows build recipes, and AppVeyor build of binaries.
 - [Ubuntu scripts](https://github.com/tlorach/USD_build)
 - [Rez](https://github.com/piratecrew/rez-usd)
-- [Docker Package](https://github.com/AnimalLogic/docker-usd)
+- [Docker Container](https://github.com/AnimalLogic/docker-usd)
 - [RodeoFX's dependency builds](https://github.com/rodeofx/usd-deps) Includes tarred sources for USD dependencies at vfxplatform point revisions.
 
 
