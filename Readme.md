@@ -18,11 +18,13 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 - [USD Interest Google Group](https://groups.google.com/forum/#!forum/usd-interest)
 - [Introductory Videos](http://graphics.pixar.com/usd/downloads.html) Several video presentations by Pixar
 - [UsdSkel](http://graphics.pixar.com/usd/files/SkinningOM.md.html) All about skinning schemas for USD
+- [USD based pipelines](https://vimeo.com/188191100) 2016 presentation on Pixar's use of USD in the pipeline
 - [Using USD with Apple's technologies](https://developer.apple.com/videos/play/wwdc2017/610/) WWDC 2017 presentation
 
 
 ## Integrations
 
+- Apple Finder and Preview application can display USD files natively
 - [AL_USDMaya](https://github.com/AnimalLogic/AL_USDMaya) Animal Logic's exporter maintains a live connection between the Maya and USD scenegraphs
 - [Arnold](https://github.com/LumaPictures/usd-arnold) Luma Pictures USD bridge for Arnold
 - [Houdini](https://graphics.pixar.com/usd/docs/Houdini-USD-Plugins.html)
