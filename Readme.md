@@ -56,10 +56,10 @@ There are a variety of strategies for building USD.
 
 ## Syntax Highlighters
 
-- [VSCode Highlighting](https://github.com/AnimalLogic/AL_usd_vscode_extension) Animal Logic's VSCode highlighter
-- [Syntax Highlighting](https://github.com/superfunc/usda-syntax) Syntax Highlighting for usda files in vim, emacs, atom, vscode & sublime.
-- [Sublime Syntax Highlighter](https://github.com/davidlatwe/PixarUSD-Sublime) Syntax highlighter for Sublime.
-- [Notepad++ Highlighter](https://github.com/Andrew/Hazelden/PIXAR-USD-Syntax-Highlighter) Syntax highlighter for Notepad++
+- [VSCode Highlighting](https://github.com/AnimalLogic/AL_usd_vscode_extension)
+- [Syntax Highlighting](https://github.com/superfunc/usda-syntax) for vim, emacs, atom, vscode & sublime.
+- [Sublime Syntax Highlighter](https://github.com/davidlatwe/PixarUSD-Sublime)
+- [Notepad++ Highlighter](https://github.com/Andrew/Hazelden/PIXAR-USD-Syntax-Highlighter)
 
 ## Hydra
 
