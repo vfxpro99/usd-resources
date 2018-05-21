@@ -1,4 +1,4 @@
-# Awesome USD [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome USD
 
 Projects and resources relating to Pixar's [Universal Scene Description](http://openusd.org)
 
@@ -9,7 +9,7 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 - [Integrations](#integrations)
 - [Samples](#samples)
 - [Building and Distros](#building-and-distros)
-- [Tools](#tools)
+- [Syntax Highlighters](#syntax-highlighters)
 - [Hydra](#hydra)
 
 ## Reference
@@ -54,8 +54,9 @@ There are a variety of strategies for building USD.
 - [RodeoFX's dependency builds](https://github.com/rodeofx/usd-deps) Includes tarred sources for USD dependencies at vfxplatform point revisions.
 
 
-## Tools
+## Syntax Highlighters
 
+- [VSCode Highlighting](https://github.com/AnimalLogic/AL_usd_vscode_extension) Animal Logic's VSCode highlighter
 - [Syntax Highlighting](https://github.com/superfunc/usda-syntax) Syntax Highlighting for usda files in vim, emacs, atom, vscode & sublime.
 - [Sublime Syntax Highlighter](https://github.com/davidlatwe/PixarUSD-Sublime) Syntax highlighter for Sublime.
 - [Notepad++ Highlighter](https://github.com/Andrew/Hazelden/PIXAR-USD-Syntax-Highlighter) Syntax highlighter for Notepad++
