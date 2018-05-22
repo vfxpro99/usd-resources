@@ -57,7 +57,7 @@ There are a variety of strategies for building USD.
 ## Syntax Highlighters
 
 - [VSCode Highlighting](https://github.com/AnimalLogic/AL_usd_vscode_extension)
-- [Syntax Highlighting](https://github.com/superfunc/usda-syntax) for vim, emacs, atom, vscode & sublime.
+- [Syntax Highlighting](https://github.com/superfunc/usda-syntax) for vim, emacs & sublime.
 - [Sublime Syntax Highlighter](https://github.com/davidlatwe/PixarUSD-Sublime)
 - [Notepad++ Highlighter](https://github.com/Andrew/Hazelden/PIXAR-USD-Syntax-Highlighter)
 
