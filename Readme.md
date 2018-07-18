@@ -38,7 +38,7 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 - [USD for Unity](https://github.com/unity3d-jp/USDForUnity) USD and Alembic importer/exporter plugin for Unity
 - [USD Qt](https://github.com/LumaPictures/usd-qt) Luma Pictures has created some reusable Qt widgets to work with USD
 - [Gaffer](https://github.com/GafferHQ/gaffer) USD is available for SceneReader node and SceneWriter node from v0.42.0.0
-- [HydraNSI](https://gitlab.com/3DelightOpenSource/HydraNSI) Usdview Hydra delegate for 3D Delight
+- [HydraNSI](https://gitlab.com/3DelightOpenSource/HydraNSI) Usdview Hydra delegate for 3Delight NSI
 
 ## Samples
 - [Samples from Pixar](http://graphics.pixar.com/usd/downloads.html) Two assets are available for testing here
