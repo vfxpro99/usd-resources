@@ -20,6 +20,7 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 - [UsdSkel](http://graphics.pixar.com/usd/files/SkinningOM.md.html) All about skinning schemas for USD
 - [USD based pipelines](https://vimeo.com/188191100) 2016 presentation on Pixar's use of USD in the pipeline
 - [Using USD with Apple's technologies](https://developer.apple.com/videos/play/wwdc2017/610/) WWDC 2017 presentation
+- [USD at Animal Logic](https://www.youtube.com/playlist?list=PLNUaMVwYjKk8QDlM8gQSLbl8jxLRgc7d6)
 
 
 ## Integrations
