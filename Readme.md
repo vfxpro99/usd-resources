@@ -28,6 +28,7 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 - Apple Finder and Preview application can display USD files natively
 - [AL_USDMaya](https://github.com/AnimalLogic/AL_USDMaya) Animal Logic's exporter maintains a live connection between the Maya and USD scenegraphs
 - [Arnold](https://github.com/LumaPictures/usd-arnold) Luma Pictures USD bridge for Arnold
+- [OpenWalter](https://github.com/rodeofx/OpenWalter) Rodeo FX's USD plugin suite for Arnold, Houdini, Katana and Maya.
 - [Houdini](https://graphics.pixar.com/usd/docs/Houdini-USD-Plugins.html)
 - [Katana](https://graphics.pixar.com/usd/docs/Katana-USD-Plugins.html)
 - [Model I/O](https://developer.apple.com/documentation/modelio) Apple's Model I/O brings USD to Metal
