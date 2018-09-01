@@ -40,7 +40,17 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 - [USD for Unity](https://github.com/unity3d-jp/USDForUnity) USD and Alembic importer/exporter plugin for Unity
 - [USD Qt](https://github.com/LumaPictures/usd-qt) Luma Pictures has created some reusable Qt widgets to work with USD
 - [Gaffer](https://github.com/GafferHQ/gaffer) USD is available for SceneReader node and SceneWriter node from v0.42.0.0
+
+
+## Hydra
+
+- [GTC 2015](http://on-demand.gputechconf.com/gtc/2015/presentation/S5327-Jeremy-Cowles.pdf) Jeremy Cowles' GTC2015 presentation introducing Hydra
+- [Switch](https://github.com/VictorYudin/switch) Victor Yudin has built a game using Hydra as the render engine
+- [Tutorials](https://github.com/dboogert/USD/tree/tutorials/extras/usd/tutorials/IETutorials) Tutorials on using Hydra as a stand-alone render system
+- [USD-tests](https://github.com/dboogert/USD-tests) Examples for learning USD and Hydra APIs
 - [HydraNSI](https://gitlab.com/3DelightOpenSource/HydraNSI) Usdview Hydra delegate for 3Delight NSI
+- [AMD ProRender](https://twitter.com/eddyluten/status/1035659760861769728) AMD ProRender raytracing Hydra delegate
+
 
 ## Samples
 - [Samples from Pixar](http://graphics.pixar.com/usd/downloads.html) Two assets are available for testing here
@@ -66,13 +76,6 @@ There are a variety of strategies for building USD.
 - [Syntax Highlighting](https://github.com/superfunc/usda-syntax) for vim, emacs & sublime.
 - [Sublime Syntax Highlighter](https://github.com/davidlatwe/PixarUSD-Sublime)
 - [Notepad++ Highlighter](https://github.com/Andrew/Hazelden/PIXAR-USD-Syntax-Highlighter)
-
-## Hydra
-
-- [GTC 2015](http://on-demand.gputechconf.com/gtc/2015/presentation/S5327-Jeremy-Cowles.pdf) Jeremy Cowles' GTC2015 presentation introducing Hydra
-- [Switch](https://github.com/VictorYudin/switch) Victor Yudin has built a game using Hydra as the render engine
-- [Tutorials](https://github.com/dboogert/USD/tree/tutorials/extras/usd/tutorials/IETutorials) Tutorials on using Hydra as a stand-alone render system
-- [USD-tests](https://github.com/dboogert/USD-tests) Examples for learning USD and Hydra APIs
 
 ## Contribute
 
