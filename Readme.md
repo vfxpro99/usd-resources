@@ -20,6 +20,7 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 - [UsdSkel](http://graphics.pixar.com/usd/files/SkinningOM.md.html) All about skinning schemas for USD
 - [USD based pipelines](https://vimeo.com/188191100) 2016 presentation on Pixar's use of USD in the pipeline
 - [Using USD with Apple's technologies](https://developer.apple.com/videos/play/wwdc2017/610/) WWDC 2017 presentation
+- [USDZ at Apple](https://developer.apple.com/videos/play/wwdc2018/603/) WWDC 2018 presentation
 - [USD at Animal Logic](https://www.youtube.com/playlist?list=PLNUaMVwYjKk8QDlM8gQSLbl8jxLRgc7d6) video presentations
 
 
@@ -42,7 +43,8 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 - [USD for Unity](https://github.com/unity3d-jp/USDForUnity) USD and Alembic importer/exporter plugin for Unity
 - [USD Qt](https://github.com/LumaPictures/usd-qt) Luma Pictures has created some reusable Qt widgets to work with USD
 - [Gaffer](https://github.com/GafferHQ/gaffer) USD is available for SceneReader node and SceneWriter node from v0.42.0.0
-
+- [nVidia RTX](https://www.nvidia.com/en-us/design-visualization/technologies/rtx) USD is supported for asset interchange on the RTX platform
+- [Aero](https://www.adobe.com/products/projectaero.html) Adobe's Project Aero
 
 ## Hydra
 
@@ -55,9 +57,14 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 
 
 ## Samples
+
 - [Samples from Pixar](http://graphics.pixar.com/usd/downloads.html) Two assets are available for testing here
 - [ARKit](https://developer.apple.com/arkit/gallery/) USDZ format assets from Apple
 - [Samples from FusionAR](https://www.fusionar.app/) USDZ format assets
+
+## Tools
+
+- [gltf2usd](https://github.com/kcoley/gltf2usd) Convert gltf 2.0 files to USD
 
 ## Building and Distros
 
@@ -70,6 +77,7 @@ There are a variety of strategies for building USD.
 - [Rez](https://github.com/piratecrew/rez-usd)
 - [Docker Container](https://github.com/AnimalLogic/docker-usd)
 - [RodeoFX's dependency builds](https://github.com/rodeofx/usd-deps) Includes tarred sources for USD dependencies at vfxplatform point revisions.
+- [Apple, macOS](https://developer.apple.com/go/?id=python-usd-library) Apple has a build availble here
 
 
 ## Syntax Highlighters
