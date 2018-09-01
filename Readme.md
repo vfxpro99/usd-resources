@@ -53,7 +53,7 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 - [Tutorials](https://github.com/dboogert/USD/tree/tutorials/extras/usd/tutorials/IETutorials) Tutorials on using Hydra as a stand-alone render system
 - [USD-tests](https://github.com/dboogert/USD-tests) Examples for learning USD and Hydra APIs
 - [HydraNSI](https://gitlab.com/3DelightOpenSource/HydraNSI) Usdview Hydra delegate for 3Delight NSI
-- [AMD ProRender](https://twitter.com/eddyluten/status/1035659760861769728) AMD ProRender raytracing Hydra delegate
+- [AMD ProRender](https://github.com/GPUOpen-LibrariesAndSDKs/RadeonProRenderUSD) AMD ProRender raytracing Hydra delegate
 
 
 ## Samples
