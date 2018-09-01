@@ -1,4 +1,4 @@
-# Awesome USD
+# USD Projects and Resources
 
 Projects and resources relating to Pixar's [Universal Scene Description](http://openusd.org)
 
