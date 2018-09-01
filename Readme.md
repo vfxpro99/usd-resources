@@ -27,6 +27,7 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 
 - Apple Finder and Preview application can display USD files natively
 - [AL_USDMaya](https://github.com/AnimalLogic/AL_USDMaya) Animal Logic's exporter maintains a live connection between the Maya and USD scenegraphs
+- [AL_USDMaya](https://www.youtube.com/watch?v=RluuvOAXvnk) Presentation about the AL_USDMaya workflow
 - [Arnold](https://github.com/LumaPictures/usd-arnold) Luma Pictures USD bridge for Arnold
 - [OpenWalter](https://github.com/rodeofx/OpenWalter) Rodeo FX's USD plugin suite for Arnold, Houdini, Katana and Maya.
 - [Houdini](https://graphics.pixar.com/usd/docs/Houdini-USD-Plugins.html)
@@ -37,6 +38,7 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 - [TiltBrush](https://docs.google.com/document/d/11ZsHozYn9FnWG7y3s3WAyKIACfbfwb4PbaS8cZ_xjvo/preview) TiltBrush v15 can export USD camera tracks
 - [Unreal](https://github.com/epicgames/unrealengine) Unreal 4.18 includes a USD importer
 - [Unity USD SDK](https://github.com/googlevr/usd-unity-sdk) Full C# bindings to the USD SDK
+- [Unity USD SDK](https://www.youtube.com/watch?v=FnKWixYmSRY) Presentation about the Unity USD SDK
 - [USD for Unity](https://github.com/unity3d-jp/USDForUnity) USD and Alembic importer/exporter plugin for Unity
 - [USD Qt](https://github.com/LumaPictures/usd-qt) Luma Pictures has created some reusable Qt widgets to work with USD
 - [Gaffer](https://github.com/GafferHQ/gaffer) USD is available for SceneReader node and SceneWriter node from v0.42.0.0
