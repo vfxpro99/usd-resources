@@ -45,6 +45,7 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 - [Gaffer](https://github.com/GafferHQ/gaffer) USD is available for SceneReader node and SceneWriter node from v0.42.0.0
 - [nVidia RTX](https://www.nvidia.com/en-us/design-visualization/technologies/rtx) USD is supported for asset interchange on the RTX platform
 - [Aero](https://www.adobe.com/products/projectaero.html) Adobe's Project Aero
+- [Apple News](https://developer.apple.com/documentation/apple_news/arkit) USDZ files can be embedded in Apple News articles
 
 ## Hydra
 
