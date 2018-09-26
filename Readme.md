@@ -26,26 +26,27 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 
 ## Integrations
 
-- Apple Finder and Preview application can display USD files natively
+- [Aero](https://www.adobe.com/products/projectaero.html) Adobe's Project Aero
 - [AL_USDMaya](https://github.com/AnimalLogic/AL_USDMaya) Animal Logic's exporter maintains a live connection between the Maya and USD scenegraphs
 - [AL_USDMaya](https://www.youtube.com/watch?v=RluuvOAXvnk) Presentation about the AL_USDMaya workflow
+- Apple Finder and Preview application can display USD files natively
+- [Apple News](https://developer.apple.com/documentation/apple_news/arkit) USDZ files can be embedded in Apple News articles
 - [Arnold](https://github.com/LumaPictures/usd-arnold) Luma Pictures USD bridge for Arnold
-- [OpenWalter](https://github.com/rodeofx/OpenWalter) Rodeo FX's USD plugin suite for Arnold, Houdini, Katana and Maya.
+- [Gaffer](https://github.com/GafferHQ/gaffer) USD is available for SceneReader node and SceneWriter node from v0.42.0.0
 - [Houdini](https://graphics.pixar.com/usd/docs/Houdini-USD-Plugins.html)
 - [Katana](https://graphics.pixar.com/usd/docs/Katana-USD-Plugins.html)
 - [Model I/O](https://developer.apple.com/documentation/modelio) Apple's Model I/O brings USD to Metal
 - [Multiverse](http://multi-verse.io/) Scene assembly, set dressing, and inter-op with DCC applications
+- [nVidia RTX](https://www.nvidia.com/en-us/design-visualization/technologies/rtx) USD is supported for asset interchange on the RTX platform
+- [OpenWalter](https://github.com/rodeofx/OpenWalter) Rodeo FX's USD plugin suite for Arnold, Houdini, Katana and Maya.
 - [SceneKit](https://developer.apple.com/documentation/scenekit) Apple's SceneKit can read and write USD files for native rendering on all Apple platforms
+- [SketchUp](https://github.com/drwave/usd-sketchup) Dr. Wave's USD Sketchup plugin
 - [TiltBrush](https://docs.google.com/document/d/11ZsHozYn9FnWG7y3s3WAyKIACfbfwb4PbaS8cZ_xjvo/preview) TiltBrush v15 can export USD camera tracks
 - [Unreal](https://github.com/epicgames/unrealengine) Unreal 4.18 includes a USD importer
 - [Unity USD SDK](https://github.com/googlevr/usd-unity-sdk) Full C# bindings to the USD SDK
 - [Unity USD SDK](https://www.youtube.com/watch?v=FnKWixYmSRY) Presentation about the Unity USD SDK
 - [USD for Unity](https://github.com/unity3d-jp/USDForUnity) USD and Alembic importer/exporter plugin for Unity
 - [USD Qt](https://github.com/LumaPictures/usd-qt) Luma Pictures has created some reusable Qt widgets to work with USD
-- [Gaffer](https://github.com/GafferHQ/gaffer) USD is available for SceneReader node and SceneWriter node from v0.42.0.0
-- [nVidia RTX](https://www.nvidia.com/en-us/design-visualization/technologies/rtx) USD is supported for asset interchange on the RTX platform
-- [Aero](https://www.adobe.com/products/projectaero.html) Adobe's Project Aero
-- [Apple News](https://developer.apple.com/documentation/apple_news/arkit) USDZ files can be embedded in Apple News articles
 
 ## Hydra
 
