@@ -43,7 +43,7 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 - [SketchUp](https://github.com/drwave/usd-sketchup) Dr. Wave's USD Sketchup plugin
 - [TiltBrush](https://docs.google.com/document/d/11ZsHozYn9FnWG7y3s3WAyKIACfbfwb4PbaS8cZ_xjvo/preview) TiltBrush v15 can export USD camera tracks
 - [Unreal](https://github.com/epicgames/unrealengine) Unreal 4.18 includes a USD importer
-- [Unity USD SDK](https://github.com/googlevr/usd-unity-sdk) Full C# bindings to the USD SDK
+- [Unity USD SDK](https://github.com/Unity-Technologies/usd-unity-sdk) Full C# bindings to the USD SDK
 - [Unity USD SDK](https://www.youtube.com/watch?v=FnKWixYmSRY) Presentation about the Unity USD SDK
 - [USD for Unity](https://github.com/unity3d-jp/USDForUnity) USD and Alembic importer/exporter plugin for Unity
 - [USD Qt](https://github.com/LumaPictures/usd-qt) Luma Pictures has created some reusable Qt widgets to work with USD
