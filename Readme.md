@@ -63,6 +63,7 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 - [Samples from Pixar](http://graphics.pixar.com/usd/downloads.html) Two assets are available for testing here
 - [ARKit](https://developer.apple.com/arkit/gallery/) USDZ format assets from Apple
 - [Samples from FusionAR](https://www.fusionar.app/) USDZ format assets
+- [GiDiOdev](http://gidiodev.altervista.org/joomla/) a few USDZ format assets
 
 ## Tools
 
