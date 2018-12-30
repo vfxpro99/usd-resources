@@ -11,6 +11,7 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 - [Building and Distros](#building-and-distros)
 - [Syntax Highlighters](#syntax-highlighters)
 - [Hydra](#hydra)
+- [Resolvers](#resolvers)
 
 ## Reference
 
@@ -84,13 +85,17 @@ There are a variety of strategies for building USD.
 - [RodeoFX's dependency builds](https://github.com/rodeofx/usd-deps) Includes tarred sources for USD dependencies at vfxplatform point revisions.
 - [Apple, macOS](https://developer.apple.com/go/?id=python-usd-library) Apple has a build availble here
 
-
 ## Syntax Highlighters
 
 - [VSCode Highlighting](https://github.com/AnimalLogic/AL_usd_vscode_extension)
 - [Syntax Highlighting](https://github.com/superfunc/usda-syntax) for vim, emacs & sublime.
 - [Sublime Syntax Highlighter](https://github.com/davidlatwe/PixarUSD-Sublime)
 - [Notepad++ Highlighter](https://github.com/Andrew/Hazelden/PIXAR-USD-Syntax-Highlighter)
+
+## Resolvers
+
+- [URI resolver](https://github.com/LumaPictures/usd-uri-resolver) by Luma Pictures
+- [S3 URI resolver](https://github.com/westerndigitalcorporation/usd-s3-resolver) Western Digital's S3 asset store resolver
 
 ## Contribute
 
