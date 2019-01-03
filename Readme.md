@@ -47,6 +47,7 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 - [Unreal](https://github.com/epicgames/unrealengine) Unreal 4.18 includes a USD importer
 - [Unity USD SDK](https://github.com/Unity-Technologies/usd-unity-sdk) Full C# bindings to the USD SDK
 - [Unity USD SDK](https://www.youtube.com/watch?v=FnKWixYmSRY) Presentation about the Unity USD SDK
+- [Unity USD SDK](https://medium.com/@jcowles/unity-c-api-for-usd-6ea6a4282f03) Design notes on the Unity USD SDK's API
 - [USD for Unity](https://github.com/unity3d-jp/USDForUnity) USD and Alembic importer/exporter plugin for Unity
 - [USD Qt](https://github.com/LumaPictures/usd-qt) Luma Pictures has created some reusable Qt widgets to work with USD
 
