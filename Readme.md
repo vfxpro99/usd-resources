@@ -72,6 +72,8 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 ## Tools
 
 - [gltf2usd](https://github.com/kcoley/gltf2usd) Convert gltf 2.0 files to USD
+- [apple usdSkel fixup](https://github.com/pkanyuk/PkUsdUtils/blob/master/usdSkelAppleFixup.py) Sanitize UsdSkeletons for ArKit
+
 
 ## Building and Distros
 
