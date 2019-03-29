@@ -6,6 +6,7 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 ## Contents
 
 - [Reference](#reference)
+- [Tools](#tools)
 - [Integrations](#integrations)
 - [Samples](#samples)
 - [Building and Distros](#building-and-distros)
@@ -25,6 +26,13 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 - [USD at Animal Logic](https://www.youtube.com/playlist?list=PLNUaMVwYjKk8QDlM8gQSLbl8jxLRgc7d6) video presentations
 - [https://graphics.pixar.com/usd/docs/Simple-Shading-in-USD.html] USD's preview material
 
+
+## Tools
+
+- [gltf2usd](https://github.com/kcoley/gltf2usd) Convert gltf 2.0 files to USD
+- [apple usdSkel fixup](https://github.com/pkanyuk/PkUsdUtils/blob/master/usdSkelAppleFixup.py) Sanitize UsdSkeletons for ArKit
+- [animated cubes script](https://groups.google.com/forum/#!topic/usd-interest/dj9tUT8NcpI) Generate an animated file for testing
+- [USD Manager](http://www.usdmanager.org/) USD Manager by Dreamworks
 
 ## Integrations
 
@@ -70,12 +78,6 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 - [ARKit](https://developer.apple.com/arkit/gallery/) USDZ format assets from Apple
 - [Samples from FusionAR](https://www.fusionar.app/) USDZ format assets
 - [GiDiOdev](http://gidiodev.altervista.org/joomla/) a few USDZ format assets
-
-## Tools
-
-- [gltf2usd](https://github.com/kcoley/gltf2usd) Convert gltf 2.0 files to USD
-- [apple usdSkel fixup](https://github.com/pkanyuk/PkUsdUtils/blob/master/usdSkelAppleFixup.py) Sanitize UsdSkeletons for ArKit
-- [animated cubes script](https://groups.google.com/forum/#!topic/usd-interest/dj9tUT8NcpI) Generate an animated file for testing
 
 
 ## Building and Distros
