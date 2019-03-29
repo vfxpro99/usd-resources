@@ -51,6 +51,7 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 - [Unity USD SDK](https://blogs.unity3d.com/2019/03/28/pixars-universal-scene-description-for-unity-out-in-preview/) Details on using the Unity USD SDK
 - [USD for Unity](https://github.com/unity3d-jp/USDForUnity) USD and Alembic importer/exporter plugin for Unity
 - [USD Qt](https://github.com/LumaPictures/usd-qt) Luma Pictures has created some reusable Qt widgets to work with USD
+- [Live coding in usdview](https://groups.google.com/d/msg/usd-interest/w3-KivsOuTE/psDcH9p-AgAJ) Live Coding in USD
 
 ## Hydra
 
