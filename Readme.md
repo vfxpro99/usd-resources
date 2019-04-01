@@ -69,7 +69,7 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 - [USD-tests](https://github.com/dboogert/USD-tests) Examples for learning USD and Hydra APIs
 - [HydraNSI](https://gitlab.com/3DelightOpenSource/HydraNSI) Usdview Hydra delegate for 3Delight NSI
 - [AMD ProRender](https://github.com/GPUOpen-LibrariesAndSDKs/RadeonProRenderUSD) AMD ProRender raytracing Hydra delegate
-- [Intel hdOSPRay](https://github.com/carsonbrownlee/USD) Hydra + Intel's Open-Source OSPRay interactive path tracer
+- [Intel hdOSPRay](https://github.com/ospray/hdospray) Hydra + Intel's Open-Source OSPRay interactive path tracer
 
 
 ## Samples
