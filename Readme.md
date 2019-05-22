@@ -60,6 +60,7 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 - [USD for Unity](https://github.com/unity3d-jp/USDForUnity) USD and Alembic importer/exporter plugin for Unity
 - [USD Qt](https://github.com/LumaPictures/usd-qt) Luma Pictures has created some reusable Qt widgets to work with USD
 - [Live coding in usdview](https://groups.google.com/d/msg/usd-interest/w3-KivsOuTE/psDcH9p-AgAJ) Live Coding in USD
+- [UsdVol for Katana](https://github.com/UTS-AnimalLogicAcademy/usd-renderman) UsdVol to Renderman bridge for Katana
 
 ## Hydra
 
