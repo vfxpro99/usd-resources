@@ -100,6 +100,7 @@ There are a variety of strategies for building USD.
 - [Syntax Highlighting](https://github.com/superfunc/usda-syntax) for vim, emacs & sublime.
 - [Sublime Syntax Highlighter](https://github.com/davidlatwe/PixarUSD-Sublime)
 - [Notepad++ Highlighter](https://github.com/Andrew/Hazelden/PIXAR-USD-Syntax-Highlighter)
+- [PyCharm Plug-in](https://github.com/justint/usd-idea)
 
 ## Resolvers
 
