@@ -25,6 +25,7 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 - [USDZ at Apple](https://developer.apple.com/videos/play/wwdc2018/603/) WWDC 2018 presentation
 - [USD at Animal Logic](https://www.youtube.com/playlist?list=PLNUaMVwYjKk8QDlM8gQSLbl8jxLRgc7d6) video presentations
 - [https://graphics.pixar.com/usd/docs/Simple-Shading-in-USD.html] USD's preview material
+- [USD Cookbook](https://github.com/ColinKennedy/USD-Cookbook) Colin Kennedy's USD code and asset samples
 
 
 ## Tools
