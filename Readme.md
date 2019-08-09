@@ -83,18 +83,21 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 - [GiDiOdev](http://gidiodev.altervista.org/joomla/) a few USDZ format assets
 
 
-## Building and Distros
+## Building
 
 There are a variety of strategies for building USD.
 
 - [Official USD repo](https://github.com/PixarAnimationStudios/USD) The repo includes a robust build script that pulls canonical dependency sources, and can build for all supported platforms.
 - [USD Build Club](https://github.com/vfxpro99/usd-build-club) This is the most thorough and flexible method for building USD and all its dependencies for macOS and Windows. Dependencies are fetched from canonical sources.
-- [Saturn](https://github.com/VictorYudin/saturn) Windows build recipes, and AppVeyor build of binaries.
 - [Ubuntu scripts](https://github.com/tlorach/USD_build)
 - [Rez](https://github.com/piratecrew/rez-usd)
-- [Docker Container](https://github.com/AnimalLogic/docker-usd)
 - [RodeoFX's dependency builds](https://github.com/rodeofx/usd-deps) Includes tarred sources for USD dependencies at vfxplatform point revisions.
-- [Apple, macOS](https://developer.apple.com/go/?id=python-usd-library) Apple has a build availble here
+
+## Distros
+- [macOs, linux, windows](https://developer.nvidia.com/usd#binaries) nVidia has a distro, and Python3 bindings
+- [Apple, macOS](https://developer.apple.com/go/?id=python-usd-library) Apple has a build availble here with USDZ tools
+- [Docker Container](https://github.com/AnimalLogic/docker-usd)
+- [Saturn](https://github.com/VictorYudin/saturn) Windows build recipes, and AppVeyor build of binaries.
 
 ## Syntax Highlighters
 
