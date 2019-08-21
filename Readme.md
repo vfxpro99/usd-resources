@@ -67,13 +67,14 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 
 ## Hydra
 
+- [AMD ProRender](https://github.com/GPUOpen-LibrariesAndSDKs/RadeonProRenderUSD) AMD ProRender raytracing Hydra delegate
 - [GTC 2015](http://on-demand.gputechconf.com/gtc/2015/presentation/S5327-Jeremy-Cowles.pdf) Jeremy Cowles' GTC2015 presentation introducing Hydra
+- [Hydra Houdini](https://github.com/dreamworksanimation/dwa_usd_plugins) Dreamworks' Hydra plugin for Houdini
+- [HydraNSI](https://gitlab.com/3DelightOpenSource/HydraNSI) Usdview Hydra delegate for 3Delight NSI
+- [Intel hdOSPRay](https://github.com/ospray/hdospray) Hydra + Intel's Open-Source OSPRay interactive path tracer
 - [Switch](https://github.com/VictorYudin/switch) Victor Yudin has built a game using Hydra as the render engine
 - [Tutorials](https://github.com/dboogert/USD/tree/tutorials/extras/usd/tutorials/IETutorials) Tutorials on using Hydra as a stand-alone render system
 - [USD-tests](https://github.com/dboogert/USD-tests) Examples for learning USD and Hydra APIs
-- [HydraNSI](https://gitlab.com/3DelightOpenSource/HydraNSI) Usdview Hydra delegate for 3Delight NSI
-- [AMD ProRender](https://github.com/GPUOpen-LibrariesAndSDKs/RadeonProRenderUSD) AMD ProRender raytracing Hydra delegate
-- [Intel hdOSPRay](https://github.com/ospray/hdospray) Hydra + Intel's Open-Source OSPRay interactive path tracer
 
 
 ## Samples
