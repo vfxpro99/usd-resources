@@ -23,7 +23,7 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 - [USD based pipelines](https://vimeo.com/188191100) 2016 presentation on Pixar's use of USD in the pipeline
 - [Using USD with Apple's technologies](https://developer.apple.com/videos/play/wwdc2017/610/) WWDC 2017 presentation
 - [USDZ at Apple](https://developer.apple.com/videos/play/wwdc2018/603/) WWDC 2018 presentation
-- [USD at Animal Logic](https://www.youtube.com/playlist?list=PLNUaMVwYjKk8QDlM8gQSLbl8jxLRgc7d6) video presentations
+- [USD at UTS Animal Logic Academy](https://www.youtube.com/playlist?list=PLNUaMVwYjKk8QDlM8gQSLbl8jxLRgc7d6) video presentations
 - [https://graphics.pixar.com/usd/docs/Simple-Shading-in-USD.html] USD's preview material
 - [USD Cookbook](https://github.com/ColinKennedy/USD-Cookbook) Colin Kennedy's USD code and asset samples
 - [Dreamworks USD Integration](https://research.dreamworks.com/wp-content/uploads/2020/01/Zero-to-USD-with-notes.pdf)
