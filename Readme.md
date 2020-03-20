@@ -104,12 +104,12 @@ There are a variety of strategies for building USD.
 
 ## Syntax Highlighters
 
-- [VSCode Highlighting](https://github.com/AnimalLogic/AL_usd_vscode_extension) Code
-- [VSCode Highlighting](https://marketplace.visualstudio.com/items?itemName=AnimalLogic.vscode-usda-syntax) Link to VS Marketplace
-- [Syntax Highlighting](https://github.com/superfunc/usda-syntax) for vim, emacs & sublime.
-- [Sublime Syntax Highlighter](https://github.com/davidlatwe/PixarUSD-Sublime)
-- [Notepad++ Highlighter](https://github.com/Andrew/Hazelden/PIXAR-USD-Syntax-Highlighter)
-- [PyCharm Plug-in](https://github.com/justint/usd-idea)
+- [Animal Logic VSCode Highlighting](https://github.com/AnimalLogic/AL_usd_vscode_extension) (.usd, .usda, .usdc)
+- [Animal Logic VSCode Highlighting at VS Marketplace](https://marketplace.visualstudio.com/items?itemName=AnimalLogic.vscode-usda-syntax)
+- [Syntax Highlighting](https://github.com/superfunc/usda-syntax) for vim, emacs & sublime (.usda)
+- [Sublime Syntax Highlighter](https://github.com/davidlatwe/PixarUSD-Sublime) (.usd, .usda)
+- [Notepad++ Highlighter](https://github.com/AndrewHazelden/PIXAR-USD-Syntax-Highlighter) (.usda)
+- [PyCharm Plug-in](https://github.com/justint/usd-idea) (.usda)
 
 ## Resolvers
 
