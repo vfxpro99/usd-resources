@@ -5,6 +5,7 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 
 ## Contents
 
+- [USDZ]($USDZ)
 - [Reference](#reference)
 - [Tools](#tools)
 - [Integrations](#integrations)
@@ -14,6 +15,17 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 - [Hydra](#hydra)
 - [Resolvers](#resolvers)
 
+## USDZ
+
+- [Apple's Reality Composer](https://developer.apple.com/documentation/realitykit/creating_3d_content_with_reality_composer/exporting_a_reality_composer_scene_to_usdz) exports scenes to USDZ
+- [Sketchfab](https://sketchfab.com/blogs/community/sketchfab-adds-usdz-3d-file-conversion) has nearly a half million USDZ files available for download
+- [USDZ at Apple](https://developer.apple.com/videos/play/wwdc2018/603/) WWDC 2018 presentation
+- [UsdSkel](https://github.com/pkanyuk/PkUsdUtils/blob/master/usdSkelAppleFixup.py) for Apple's ArKit
+- [Apple News](https://developer.apple.com/documentation/apple_news/arkit) USDZ files can be embedded in Apple News articles
+- [ARKit](https://developer.apple.com/arkit/gallery/) USDZ format assets from Apple
+- [Samples from FusionAR](https://www.fusionar.app/) USDZ format assets
+- [GiDiOdev](http://gidiodev.altervista.org/joomla/) a few USDZ format assets
+
 ## Reference
 
 - [openusd.org](http://openusd.org) The official website
@@ -22,27 +34,23 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 - [UsdSkel](http://graphics.pixar.com/usd/files/SkinningOM.md.html) All about skinning schemas for USD
 - [USD based pipelines](https://vimeo.com/188191100) 2016 presentation on Pixar's use of USD in the pipeline
 - [Using USD with Apple's technologies](https://developer.apple.com/videos/play/wwdc2017/610/) WWDC 2017 presentation
-- [USDZ at Apple](https://developer.apple.com/videos/play/wwdc2018/603/) WWDC 2018 presentation
 - [USD at UTS Animal Logic Academy](https://www.youtube.com/playlist?list=PLNUaMVwYjKk8QDlM8gQSLbl8jxLRgc7d6) video presentations
 - [https://graphics.pixar.com/usd/docs/Simple-Shading-in-USD.html] USD's preview material
 - [USD Cookbook](https://github.com/ColinKennedy/USD-Cookbook) Colin Kennedy's USD code and asset samples
 - [Dreamworks USD Integration](https://research.dreamworks.com/wp-content/uploads/2020/01/Zero-to-USD-with-notes.pdf)
 
-
 ## Tools
 
 - [gltf2usd](https://github.com/kcoley/gltf2usd) Convert gltf 2.0 files to USD
-- [apple usdSkel fixup](https://github.com/pkanyuk/PkUsdUtils/blob/master/usdSkelAppleFixup.py) Sanitize UsdSkeletons for ArKit
 - [animated cubes script](https://groups.google.com/forum/#!topic/usd-interest/dj9tUT8NcpI) Generate an animated file for testing
 - [USD Manager](http://www.usdmanager.org/) USD Manager by Dreamworks
 
 ## Integrations
 
+- Apple's Finder and Preview application can display USD files natively
 - [Aero](https://www.adobe.com/products/projectaero.html) Adobe's Project Aero
 - [AL_USDMaya](https://github.com/AnimalLogic/AL_USDMaya) Animal Logic's plugin (now unified with the Autodesk Maya plugin)
 - [AL_USDMaya](https://www.youtube.com/watch?v=RluuvOAXvnk) Presentation about the AL_USDMaya workflow
-- Apple Finder and Preview application can display USD files natively
-- [Apple News](https://developer.apple.com/documentation/apple_news/arkit) USDZ files can be embedded in Apple News articles
 - [Arnold](https://github.com/LumaPictures/usd-arnold) Luma Pictures USD bridge for Arnold
 - [Blender](https://code.blender.org/2019/07/first-steps-with-universal-scene-description/) Work in Progress Blender Exporter
 - [Gaffer](https://github.com/GafferHQ/gaffer) USD is available for SceneReader node and SceneWriter node from v0.42.0.0
@@ -77,14 +85,9 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 - [Tutorials](https://github.com/dboogert/USD/tree/tutorials/extras/usd/tutorials/IETutorials) Tutorials on using Hydra as a stand-alone render system
 - [USD-tests](https://github.com/dboogert/USD-tests) Examples for learning USD and Hydra APIs
 
-
 ## Samples
 
-- [Samples from Pixar](http://graphics.pixar.com/usd/downloads.html) Two assets are available for testing here
-- [ARKit](https://developer.apple.com/arkit/gallery/) USDZ format assets from Apple
-- [Samples from FusionAR](https://www.fusionar.app/) USDZ format assets
-- [GiDiOdev](http://gidiodev.altervista.org/joomla/) a few USDZ format assets
-
+- [Samples from Pixar](http://graphics.pixar.com/usd/downloads.html) Several assets are available for testing here
 
 ## Building
 
@@ -119,7 +122,6 @@ There are a variety of strategies for building USD.
 ## Contribute
 
 Contributions are welcome - see the[contribution guidelines](contributing.md)
-
 
 ## License
 
