@@ -58,6 +58,7 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 - [Katana](https://graphics.pixar.com/usd/docs/Katana-USD-Plugins.html)
 - [Maya](https://github.com/Autodesk/maya-usd) Autodesk Maya plugin
 - [Model I/O](https://developer.apple.com/documentation/modelio) Apple's Model I/O brings USD to Metal
+- [Millefiori](https://www.mpc-rnd.com/millefiori-a-usd-based-sequence-editor/) MPC's USD based Sequence Editor
 - [Multiverse](http://multi-verse.io/) Scene assembly, set dressing, and inter-op with DCC applications
 - [nVidia RTX](https://www.nvidia.com/en-us/design-visualization/technologies/rtx) USD is supported for asset interchange on the RTX platform
 - [OpenWalter](https://github.com/rodeofx/OpenWalter) Rodeo FX's USD plugin suite for Arnold, Houdini, Katana and Maya.
