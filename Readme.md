@@ -39,6 +39,7 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 - [https://graphics.pixar.com/usd/docs/Simple-Shading-in-USD.html] USD's preview material
 - [USD Cookbook](https://github.com/ColinKennedy/USD-Cookbook) Colin Kennedy's USD code and asset samples
 - [Dreamworks USD Integration](https://research.dreamworks.com/wp-content/uploads/2020/01/Zero-to-USD-with-notes.pdf)
+- [Luma USD Integration](https://beforesandafters.com/2020/05/25/how-does-usd-actually-get-used-at-a-vfx-studio/) Brief notes on Luma's pipeline
 
 ## Tools
 
