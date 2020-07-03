@@ -52,6 +52,8 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 - Apple's Finder and Preview application can display USD files natively
 - [Aero](https://www.adobe.com/products/projectaero.html) Adobe's Project Aero
 - [AL_USDMaya](https://github.com/AnimalLogic/AL_USDMaya) Animal Logic's plugin (now unified with the Autodesk Maya plugin)
+- [AL_USDMaya](https://github.com/AnimalLogic/AL_USDMaya/wiki/Asset-Resolution-and-Version-Selection-at-Animal-Logic
+) Animal Logic's Asset Resolution system
 - [AL_USDMaya](https://www.youtube.com/watch?v=RluuvOAXvnk) Presentation about the AL_USDMaya workflow
 - [Arnold](https://github.com/LumaPictures/usd-arnold) Luma Pictures USD bridge for Arnold
 - [Blender](https://code.blender.org/2019/07/first-steps-with-universal-scene-description/) Work in Progress Blender Exporter
@@ -121,6 +123,7 @@ There are a variety of strategies for building USD.
 
 - [URI resolver](https://github.com/LumaPictures/usd-uri-resolver) by Luma Pictures
 - [S3 URI resolver](https://github.com/westerndigitalcorporation/usd-s3-resolver) Western Digital's S3 asset store resolver
+- [RodeoFX resolver](https://github.com/rodeofx/rdo_replace_resolver) RodeoFX's Replace Resolver
 
 ## Contribute
 
