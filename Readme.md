@@ -118,6 +118,7 @@ There are a variety of strategies for building USD.
 - [Sublime Syntax Highlighter](https://github.com/davidlatwe/PixarUSD-Sublime) (.usd, .usda)
 - [Notepad++ Highlighter](https://github.com/AndrewHazelden/PIXAR-USD-Syntax-Highlighter) (.usda)
 - [PyCharm Plug-in](https://github.com/justint/usd-idea) (.usda)
+- [JetBrains] (https://github.com/justint/usd-idea) A plugin for JetBrains IDEs; PyCharm, IntelliJ, etc.
 
 ## Resolvers
 
