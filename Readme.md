@@ -94,7 +94,8 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 
 ## Samples
 
-- [Samples from Pixar](http://graphics.pixar.com/usd/downloads.html) Several assets are available for testing here
+- [Samples from Nvidia](https://developer.nvidia.com/usd#sample)
+- [Samples from Pixar](https://graphics.pixar.com/usd/downloads.html)
 
 ## Building
 
