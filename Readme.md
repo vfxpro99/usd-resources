@@ -46,8 +46,8 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 - [gltf2usd](https://github.com/kcoley/gltf2usd) Convert gltf 2.0 files to USD
 - [animated cubes script](https://groups.google.com/forum/#!topic/usd-interest/dj9tUT8NcpI) Generate an animated file for testing
 - [USD Manager](http://www.usdmanager.org/) USD Manager by Dreamworks
-- [holopointer](https://github.com/simpassi/holopointer) Record from a Kinect USB device to USD (MacOS/Swift)
-- [ptc2usd](https://github.com/simpassi/ptc2usd) Pixar PTC and Houdini JSON point cloud to USD converter
+- [holopointer](https://github.com/virokannas/holopointer) Record from a Kinect USB device to USD (MacOS/Swift)
+- [ptc2usd](https://github.com/virokannas/ptc2usd) Pixar PTC and Houdini JSON point cloud to USD converter
 
 ## Integrations
 
