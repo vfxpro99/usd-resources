@@ -51,6 +51,7 @@ Projects and resources relating to Pixar's [Universal Scene Description](http://
 
 ## Integrations
 
+- [3ds Max](https://github.com/Autodesk/3dsmax-usd) Autodesk 3ds Max plugin
 - Apple's Finder and Preview application can display USD files natively
 - [Aero](https://www.adobe.com/products/projectaero.html) Adobe's Project Aero
 - [AL_USDMaya](https://github.com/AnimalLogic/AL_USDMaya) Animal Logic's plugin (now unified with the Autodesk Maya plugin)
